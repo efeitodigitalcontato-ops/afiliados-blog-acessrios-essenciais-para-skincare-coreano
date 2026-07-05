@@ -1,0 +1,31 @@
+{
+  "theme": "acessórios essenciais para skincare coreano",
+  "categories": [
+    {
+      "value": "acess-rios-essenciais-para-skincare-coreano",
+      "label": "Acessórios essenciais para skincare coreano"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Acessórios essenciais para skincare coreano"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-acess-rios-essenciais-para-skincare-coreano-1.jpg",
+      "label": "Acessórios essenciais para skincare coreano Premium"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-skincare-coreano-2.jpg",
+      "label": "Acessórios essenciais para skincare coreano Custo-Benefício"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-skincare-coreano-3.jpg",
+      "label": "Melhores Acessórios essenciais para skincare coreano"
+    }
+  ]
+}
